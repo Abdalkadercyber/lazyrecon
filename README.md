@@ -1,4 +1,4 @@
-🕵️ LazyRecon - Automated Reconnaissance Script
+🕵️ LazyRecon - Automated Reconnaissance Script (made with help of AI)
 
 LazyRecon is a powerful bash script that automates comprehensive reconnaissance for penetration testing and bug bounty hunting. Get enterprise-grade reconnaissance with a single command!
 🚀 Features
@@ -49,5 +49,11 @@ Optional Enhancements
 
     Content Discovery: gobuster, ffuf
 
-    Vulnerability Scanning: nuclei<img width="826" height="360" alt="image" src="https://github.com/user-attachments/assets/8a1fffd5-8e9c-4954-bd1c-80c172fa7cc6" />
+    Vulnerability Scanning: nuclei
+<img width="924" height="367" alt="Screenshot_2025-09-07_20-07-08" src="https://github.com/user-attachments/assets/c2ebf8d2-7c7c-4aae-a09b-0a9b02078e95" />
+<img width="578" height="624" alt="image" src="https://github.com/user-attachments/assets/228fcbfa-344d-404a-96ef-6f9d69fe3725" />
+
+
+        
+
 
