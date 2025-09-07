@@ -49,4 +49,5 @@ Optional Enhancements
 
     Content Discovery: gobuster, ffuf
 
-    Vulnerability Scanning: nuclei<img width="996" height="368" alt="image" src="https://github.com/user-attachments/assets/9438d507-7368-405b-a3a5-0385fa96342d" />
+    Vulnerability Scanning: nuclei<img width="826" height="360" alt="image" src="https://github.com/user-attachments/assets/8a1fffd5-8e9c-4954-bd1c-80c172fa7cc6" />
+
